@@ -19,6 +19,8 @@ Far Traveler, What Poems Today?
 
 > 建模自己，把自己 AI 化——这是理论上最接近永生的尝试。
 
+*Model yourself, turn yourself into AI — theoretically the closest attempt at immortality.*
+
 ### [historical-persona-lab](https://github.com/ChenyangZhao7/historical-persona-lab)
 
 用 10 维行为向量刻画 447 位历史人物：相似人物匹配、跨文明对照、第一人称推演、历史情境重建与角色对话。
