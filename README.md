@@ -17,7 +17,7 @@ Far Traveler, What Poems Today?
 
 ## 核心项目
 
-> 一个在建模「人」，一个在建模「表达」。
+> 建模自己，把自己 AI 化——这是理论上最接近永生的尝试。
 
 ### [historical-persona-lab](https://github.com/ChenyangZhao7/historical-persona-lab)
 
