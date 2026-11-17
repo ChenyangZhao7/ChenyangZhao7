@@ -4,7 +4,7 @@
 
 **Building local-first AI systems and tools.**
 
-在本地跑，把想法做成能用的东西。
+far traveler, what poems today
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
